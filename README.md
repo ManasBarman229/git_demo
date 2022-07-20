@@ -6,3 +6,5 @@ Training class: Introduction to github [ version control]
 
 this is a dummy text
 this is a dummy line
+
+#feature from dev_branch
